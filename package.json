@@ -6,8 +6,6 @@
   "type": "module",
   "scripts": {
     "start": "node ./index.js",
-    "server": "nodemon --inspect ./src/index.js -p 3030",
-    "dev": "nodemon src/index.js -p 8080 cluster",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

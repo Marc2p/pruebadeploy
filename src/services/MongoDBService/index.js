@@ -1,3 +1,5 @@
+import logger from "../../loggers/Log4jsLogger.js";
+
 import { config } from '../../config/index.js'
 import mongoose from "mongoose";
 
